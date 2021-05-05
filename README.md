@@ -16,7 +16,7 @@ https://github.com/fkxxyz/rime-cloverpinyin/releases
 
 * clover.custom.yaml : 初始输入法; 模糊音输入规则(参考自https://gist.github.com/lotem/2320943)
 * default.custom.yaml : 候选词数
-* weasel.custom.yaml : 配色方案; 外观布局设置
+* weasel.custom.yaml(For Windows) : 配色方案; 外观布局设置
 
 ### preview
 
