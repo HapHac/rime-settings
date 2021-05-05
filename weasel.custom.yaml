@@ -1,0 +1,19 @@
+customization:
+  distribution_code_name: Weasel
+  distribution_version: 0.14.3
+  generator: "Weasel::UIStyleSettings"
+  modified_time: "Tue May  4 21:57:00 2021"
+  rime_version: 1.5.3
+patch:
+  "style/color_scheme": google
+  "style/horizontal": true
+  "style/inline_preedit": true
+  "style/layout/border": 0
+  "style/layout/border_width": 0
+  "style/layout/candidate_spacing": 24
+  "style/layout/hilite_padding": 12
+  "style/layout/hilite_spacing": 3
+  "style/layout/margin_x": 12
+  "style/layout/margin_y": 12
+  "style/layout/round_corner": 0
+  "style/layout/spacing": 10
